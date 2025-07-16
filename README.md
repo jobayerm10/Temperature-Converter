@@ -15,7 +15,8 @@ A simple web-based Temperature Converter built using **HTML**, **Tailwind CSS**,
 
 ## 📸 Preview
 
-![App Screenshot](<img width="714" height="548" alt="image" src="https://github.com/user-attachments/assets/a232fdd5-aebe-4876-8165-b8ee4630d179" />
+<img width="714" height="548" alt="image" src="https://github.com/user-attachments/assets/bb6dff7f-ada6-4d90-9825-058303fab8cf" />
+
 ) <!-- You can upload a screenshot named screenshot.png -->
 
 ---
